@@ -1,5 +1,6 @@
 class Person:
     pass
 class Player:
-    print Player
+    print(Player)
     pass
+

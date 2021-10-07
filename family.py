@@ -24,3 +24,6 @@ elif question == "brother":
     print("Connor is your favorite family member.")
 else:
     print("You did not select a family member!")
+
+class Pets(FamilyMember):
+    def __init__(self):
